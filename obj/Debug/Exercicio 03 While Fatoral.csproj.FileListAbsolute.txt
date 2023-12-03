@@ -1,0 +1,15 @@
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\bin\Debug\Exercicio 03 While Fatoral.exe.config
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\bin\Debug\Exercicio 03 While Fatoral.exe
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\bin\Debug\Exercicio 03 While Fatoral.pdb
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\obj\Debug\Exercicio 03 While Fatoral.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\obj\Debug\Exercicio 03 While Fatoral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\obj\Debug\Exercicio 03 While Fatoral.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\obj\Debug\Exercicio 03 While Fatoral.exe
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatoral\obj\Debug\Exercicio 03 While Fatoral.pdb
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\bin\Debug\Exercicio 03 While Fatoral.exe.config
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\bin\Debug\Exercicio 03 While Fatoral.exe
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\bin\Debug\Exercicio 03 While Fatoral.pdb
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\obj\Debug\Exercicio 03 While Fatoral.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\obj\Debug\Exercicio 03 While Fatoral.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\obj\Debug\Exercicio 03 While Fatoral.exe
+C:\Users\Ornare\source\repos\Exercicio 03 While Fatorial\obj\Debug\Exercicio 03 While Fatoral.pdb
